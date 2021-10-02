@@ -5,3 +5,4 @@
 - 選擇完待翻譯語言可以選擇目標語言
 - 輸入文字即可完成翻譯
 - 書
+![image](https://i.imgur.com/Bw0zpva.png)
